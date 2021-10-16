@@ -2,15 +2,16 @@
     margin-bottom: 64px;
     display: flex;
     align-items: center;
-    width: 300px;
+    justify-content: center;
+    width: 320px;
   }
   
   
   .coin_input {
-    background: #222531;
+    background: #61636c;
     border: none;
     padding: 16px;
-    border-radius: 4px;
+    border-radius: 6px;
     outline: none;
     height: 100%;
     width: 100%;
